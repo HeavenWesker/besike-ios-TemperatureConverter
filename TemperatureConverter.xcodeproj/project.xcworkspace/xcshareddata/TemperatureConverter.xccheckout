@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D75EC028-23D2-461D-B54B-5997CC2E7E93</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TemperatureConverter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F63D9C6CE57C437C81BC000B3F8CCAE1B08EF11D</key>
+		<string>https://github.com/HeavenWesker/besike-ios-TemperatureConverter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TemperatureConverter.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F63D9C6CE57C437C81BC000B3F8CCAE1B08EF11D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/HeavenWesker/besike-ios-TemperatureConverter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F63D9C6CE57C437C81BC000B3F8CCAE1B08EF11D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F63D9C6CE57C437C81BC000B3F8CCAE1B08EF11D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TemperatureConverter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
